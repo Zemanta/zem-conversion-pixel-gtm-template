@@ -1,0 +1,5 @@
+homepage: "www.zemanta.com",
+documentation: "https://help.zemanta.com/article/show/118184-conversion-tracking-with-zemanta",
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a # TODO update sha https://developers.google.com/tag-platform/tag-manager/templates/gallery#metadatayaml
+    changeNotes: Initial release.
