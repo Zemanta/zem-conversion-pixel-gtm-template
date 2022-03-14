@@ -5,21 +5,21 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
+
 ___INFO___
 
 {
-  "displayName": "Zemanta Pixel",
-  "description": "Zemanta Pixel allows you to track conversions and create Custom Audiences on your web site",
-  "categories": ["ATTRIBUTION", "REMARKETING"], // TODO analytcs or any other category from https://developers.google.com/tag-platform/tag-manager/templates/gallery#add_categories_to_templatetpl ?
-  "securityGroups": [],
-  "id": "cvt_temp_public_id",
   "type": "TAG",
+  "id": "cvt_temp_public_id",
   "version": 1,
+  "securityGroups": [],
+  "displayName": "Zemanta pixel",
   "brand": {
-    "thumbnail": "data:image/png;base64,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",
+    "id": "brand_dummy",
     "displayName": "",
-    "id": "brand_dummy" // TODO what?
+    "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAACcFBMVEXtgyH3w5T96dj//v3uhibyn1Pugx/////tgyDtgh/vjjT++PP517jyp2L//vztgiDtgh7uhCLthSP///7xnE7ugyDvjzb2wI796Nb//fz62bvzqWbwlD7uhyf+9vDvjjX617juhiX/+/j+9u///Pn73sPuhifuhCP/9/DugyHuiSvuhSTvjDHthCL/+vb//PnvjTLwmEb617b/+PL0sXP/+vf3xZf96tnyqWXuiCj+9u3tgx/969v98OP73cLuiCr/+vT0r3Dzp2DxmknwkTnvii3wkjvzpl7viy/zqmb1tnzxmkr+9OvxmUj2v4z738XvkDf//Pr4y6HyoFTvkDj+9Ov86Nbwl0T+8OTwlkL+9Orxn1P/9/H//fv97d7ynlH5zqb62br0rWz1tXrxnE3yo1rvjDD84832vor1snTzpFzwlUDzqGP/+fX+8+n2vYn3xpn4yJz50av5zqf4x5r0rGr85tLviiz85dD96trwlUH74cn50q761bPwkz32vIf0sHH848z96dfzp2L3xpj507D+8eX2uoL97+L++PLuhSP3w5P86tnuhyn0rm7//v797+H859T+8+f1t3361rX1s3bvii785M7yolj5z6j4zaT62r373MD+7+P4yp7969r3xJXxm0v3wpH97N3zrm72wI32uYH1tXn74sv85M/62Ln+9/DyoVb1uH/62772uoPthCHwkDjtgyL+9u75z6nxnU7ynVD+8efzq2j3xZbyoVX3wY/2vovzqGL/+PP++fT63sT738b74MfthiXtgR3wkz/ugh/62rz1vIb+9ez//f3thCTxlUHyqGL2wY7///14EvkUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5QoVFB8ei1CnzAAAA+pJREFUeNrtmtlPE1EUxkfaOncqdiiVGgU0QLBpi1BAYxqMAoKUpawNSLCSICBLWRQRRCpKgEAUWRRZQgAXEChEAqIkYlBiNDz4P2litGceyjaTUxPv77nJ98397j1zzp0yDIVCoVAoFMq/DxGBFPrLRvm+MS5L8Py2xQP7ZWpGKX4NyJF8dt+ci+aoAWqAGvCugUlvGxiu5iU1cGzj0A5shEL9jUyDpJVQ9jAh8fD2lMTY3foy35YlRkoDKl/t1+1ffroqH7gDPukYiQ2c3H5P8UHPNG5913QywTVADEc33Pr2mGqOQTVA9I3dMIAUPUE2YP0ic+vHtgXHMagGeNNEJDgBnVpJnn/3Bsipyi4QQL5CspZ0lwbU7+/1ufUznvZKZmC1HdQBjwaIdizKrR81mkSkMsC/mI3t+Y2rVcl5DCBty62vmctTSzcVRDjO/GHE7Om5yMIACwMIlmwBfqFX/8XTT7gkpwwGoI1jUCHm9R4QQHMxh6yvc7wCAdQOGXlcA3zBd/AStk9EEOQFsEyBANisS9jTc8haP9Dvfi1H1l+KDodd2G0T9u1B+U1QAlXh6QHI+iGVtYIAjMg78JuiGehHdliQSwBnawUBsOMFHO4CEPNb8A5i+x06ZH1d1QBogyMzDdglIMgJ55D5IOQNyCRXuOAonGhE1j/tuAb0XevJyAvAFY6zcA7BDoB7Xn8WNAGTKWrkE+D/4ANYgKttwcj6TOks6MJUziTkEshrx+BdxMACQV6A4OswgJU05AAYdd4cPAENNuwSaLtlh3dREs4huwxgBnaBtWnoJ6DqPNAPHc3GbgJa5sEJ1NwoRt6AvOERDCBjyIhdAhthG27PjUAOQG0dVwEDm1bsJsBUHw/0u0pCkPXlCVeAfnx9BHYJKp0F+qoL6cjynLIBlsDuJyG4O4CXL67AADos2CWwLB+04bLwQuyrkPtOQQCp2INwU10Y0K/5aEBeAOOPx0Bfg94GM4J3EDuZgj2HNL2sgXNIXRPyBtCtwdvwHCdyAISzbsIN4JO4jGuAM+VGCQLoxT0BRP5mEL4DOrHnEEYxDE9A/gL2CbS9i/LqHHJxcUswh2ix56CRO4Jv4kU65BJwGX6OYAfTzMhNgHkalsDQsWzkEqQPhG1433AR8iTORQva8Iwhf+QFsNTDAHLGLMgfpOQJ8JO4ZtPqx+0JsculL80CXSC7tWhT7g2LuOtjoswV/C3F9dl3b8RUiLvADyjrF/4xR7ZH7PNaP1EGUsNYUaiOizQQeIIaoAb+dwOpLu8a0JfN3vURQ3uuSVz/XL6qEEehyDsUEndQHKKbByIShkKhUCgUCmUHfgKJkA71JLS45gAAAABJRU5ErkJggg\u003d\u003d"
   },
+  "description": "Zemanta Pixel allows you to track conversions and create Custom Audiences on your website",
   "containerContexts": [
     "WEB"
   ]
@@ -30,26 +30,26 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "notSetText": "You must set the Measurement Service Id field.", // TODO Measurement service id or Engagement tracking id?
-    "help": "You can find your Measurement Service Id Id on the Zemanta One Dashboard. Navigate to the Engagement Tracking page.", // TODO add more instruction 
+    "type": "TEXT",
+    "name": "MarketerId",
+    "displayName": "Engagement Tracking Id",
+    "simpleValueType": true,
+    "help": "You can find your Measurement Service Id Id on the Zemanta One Dashboard. Navigate to the Engagement Tracking page.",
     "valueValidators": [
       {
-        "args": [
-          "([0-9a-zA-Z]{10,50}, )*[0-9a-zA-Z]{10,50}$"
-        ],
-        "type": "REGEX",
-        "enablingConditions": []
+        "type": "POSITIVE_NUMBER"
       }
     ],
-    "displayName": "Measurement Service Id (ZEM_TAG_ID)",
-    "simpleValueType": true,
-    "name": "MarketerId",
-    "type": "TEXT"
+    "notSetText": "You must set the Engagement Tracking Id field."
   }
 ]
 
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+// Enter your template code here.
+const log = require('logToConsole');
+log('data =', data);
 
 const injectScript = require('injectScript');
 const setInWindow = require('setInWindow');
@@ -79,9 +79,31 @@ if (!api) {
 }
 
 
+// Call data.gtmOnSuccess when the tag is finished.
+data.gtmOnSuccess();
+
+
 ___WEB_PERMISSIONS___
 
 [
+  {
+    "instance": {
+      "key": {
+        "publicId": "logging",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "environments",
+          "value": {
+            "type": 1,
+            "string": "debug"
+          }
+        }
+      ]
+    },
+    "isRequired": true
+  },
   {
     "instance": {
       "key": {
@@ -129,7 +151,7 @@ ___WEB_PERMISSIONS___
                   },
                   {
                     "type": 8,
-                    "boolean": false
+                    "boolean": true
                   }
                 ]
               },
@@ -156,7 +178,7 @@ ___WEB_PERMISSIONS___
                 "mapValue": [
                   {
                     "type": 1,
-                    "string": "gtag"
+                    "string": "zemTag"
                   },
                   {
                     "type": 8,
@@ -207,46 +229,7 @@ ___WEB_PERMISSIONS___
                   },
                   {
                     "type": 8,
-                    "boolean": false
-                  }
-                ]
-              },
-              {
-                "type": 3,
-                "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "key"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  },
-                  {
-                    "type": 1,
-                    "string": "execute"
-                  }
-                ],
-                "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "zemTag"
-                  },
-                  {
-                    "type": 8,
                     "boolean": true
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
                   }
                 ]
               },
@@ -335,4 +318,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 11/3/2022, 15:10:13 PM
+Created on 3/14/2022, 2:29:57 PM
