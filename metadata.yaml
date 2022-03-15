@@ -1,5 +1,5 @@
 homepage: "www.zemanta.com",
 documentation: "https://help.zemanta.com/article/show/118184-conversion-tracking-with-zemanta",
 versions:
-  - sha: d26ab48488a76e9d5afc013a6b6fe56d1dc72145
+  - sha: 6295b13add6d9615296e2fee6fe250156d9f143c
     changeNotes: Initial release.
