@@ -35,7 +35,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "MarketerId",
     "displayName": "Engagement Tracking Id",
     "simpleValueType": true,
-    "help": "You can find your Measurement Service Id Id on the Zemanta One Dashboard. Navigate to the Engagement Tracking page.",
+    "help": "You can find your Measurement Service Id in the Zemanta One Dashboard. Navigate to the Engagement Tracking page.",
     "valueValidators": [
       {
         "type": "POSITIVE_NUMBER"
