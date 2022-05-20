@@ -1,5 +1,5 @@
 homepage: "www.zemanta.com"
 documentation: "https://help.zemanta.com/article/show/118184-conversion-tracking-with-zemanta"
 versions:
-  - sha: e95654779518e1e4baf20d591408690c42988a8d
+  - sha: 49ebe547e5983cf6c93df566ebdbabd080e57672
     changeNotes: Add brand display name
