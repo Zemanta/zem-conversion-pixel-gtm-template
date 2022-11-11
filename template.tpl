@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Zemanta pixel",
+  "displayName": "Zemanta Pixel",
   "categories": ["MARKETING", "CONVERSION_TRACKING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
